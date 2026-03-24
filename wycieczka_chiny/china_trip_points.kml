@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>China Trip Points</name>
+
+    <!-- Guangzhou -->
+    <Placemark>
+      <name>Guangzhou</name>
+      <Point>
+        <coordinates>113.253250,23.128994,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Shenzhen -->
+    <Placemark>
+      <name>Shenzhen</name>
+      <Point>
+        <coordinates>114.062996,22.542883,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Hong Kong -->
+    <Placemark>
+      <name>Hong Kong</name>
+      <Point>
+        <!-- approximate Hong Kong center -->
+        <coordinates>114.157692,22.285520,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Beijing -->
+    <Placemark>
+      <name>Beijing</name>
+      <Point>
+        <coordinates>116.397230,39.907500,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Pingyao -->
+    <Placemark>
+      <name>Pingyao (Shanxi)</name>
+      <Point>
+        <coordinates>112.1771043,37.2037904,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Mount Hua (Huashan) -->
+    <Placemark>
+      <name>Mount Hua (Hua Shan)</name>
+      <Point>
+        <!-- approximate location near Huayin, Shaanxi -->
+        <coordinates>110.086667,34.483333,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Xi'an -->
+    <Placemark>
+      <name>Xi'an</name>
+      <Point>
+        <coordinates>108.939770,34.341575,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Longmen Grottoes -->
+    <Placemark>
+      <name>Longmen Grottoes</name>
+      <Point>
+        <coordinates>112.4667,34.4667,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Leshan -->
+    <Placemark>
+      <name>Leshan</name>
+      <Point>
+        <!-- approximate Leshan (city) -->
+        <coordinates>103.761263,29.552526,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Chengdu -->
+    <Placemark>
+      <name>Chengdu</name>
+      <Point>
+        <coordinates>104.066670,30.666670,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
