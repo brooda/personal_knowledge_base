@@ -12,7 +12,7 @@ Miejsce na szybkie zapiski, wymiary, numery, pierdoły do zapamiętania.
 
 ## Wymiary / numery / kody
 
-- **Szafa PAX u Asi:** 185 cm (wysokość)
+- **Szafa PAX u Asi:** 185 cm
 
 ---
 
