@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<title>RTG stopy — adnotacje</title>
+<style>
+  body { background: #1a1a1a; color: #eee; font-family: system-ui, sans-serif; margin: 20px; }
+  h1 { color: #fff; }
+  h2 { color: #ccc; margin-top: 40px; }
+  .img-container { position: relative; display: inline-block; margin: 10px 0; }
+  .img-container img { max-width: 800px; width: 100%; display: block; }
+  .annotation-circle {
+    position: absolute;
+    border: 3px solid #ff3333;
+    border-radius: 50%;
+    pointer-events: none;
+    animation: pulse 2s infinite;
+  }
+  .annotation-arrow {
+    position: absolute;
+    pointer-events: none;
+  }
+  .annotation-label {
+    position: absolute;
+    background: rgba(255, 50, 50, 0.85);
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    max-width: 250px;
+    line-height: 1.4;
+    pointer-events: none;
+  }
+  .annotation-label.blue {
+    background: rgba(50, 130, 255, 0.85);
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; box-shadow: 0 0 8px rgba(255,50,50,0.6); }
+    50% { opacity: 0.7; box-shadow: 0 0 20px rgba(255,50,50,0.9); }
+  }
+  .legend { background: #2a2a2a; padding: 15px 20px; border-radius: 8px; margin: 20px 0; max-width: 800px; }
+  .legend span.red { color: #ff3333; font-weight: bold; }
+  .legend span.blue { color: #3388ff; font-weight: bold; }
+  .disclaimer { background: #3a2a00; border-left: 4px solid #ffaa00; padding: 12px 16px; margin: 20px 0; max-width: 800px; border-radius: 4px; }
+</style>
+</head>
+<body>
+
+<h1>RTG stopy prawej — adnotacje zlamania V kosci srodstopia</h1>
+<p>Data urazu: 27.03.2026 | Pacjent: prawa stopa</p>
+
+<div class="legend">
+  <span class="red">CZERWONY</span> — zlamanie V kosci srodstopia<br>
+  <span class="blue">NIEBIESKI</span> — obrzek tkanek miekkich
+</div>
+
+<!-- Projekcja skosna (IMG_3829) — najlepiej widoczne zlamanie -->
+<h2>1. Projekcja skosna — najlepiej widoczne potencjalne zlamanie</h2>
+<div class="img-container">
+  <img src="/Users/piotrbrodka/Downloads/IMG_3829.jpeg" alt="RTG stopy - projekcja skosna">
+
+  <!-- Okolenie zlamania u podstawy V MT -->
+  <div class="annotation-circle" style="
+    width: 9%;
+    height: 12%;
+    top: 38%;
+    left: 62%;
+  "></div>
+  <div class="annotation-label" style="top: 28%; left: 72%;">
+    Zlamanie V kosci srodstopia
+  </div>
+
+  <!-- Obrzek tkanek miekkich -->
+  <div class="annotation-label blue" style="top: 55%; left: 68%;">
+    Obrzek tkanek miekkich (strona boczna)
+  </div>
+</div>
+
+<!-- Projekcja AP (IMG_3830) -->
+<h2>2. Projekcja AP (przednio-tylna)</h2>
+<div class="img-container">
+  <img src="/Users/piotrbrodka/Downloads/IMG_3830.jpeg" alt="RTG stopy - projekcja AP">
+
+  <!-- Podstawa V MT -->
+  <div class="annotation-circle" style="
+    width: 8%;
+    height: 10%;
+    top: 37%;
+    left: 5%;
+  "></div>
+  <div class="annotation-label" style="top: 26%; left: 1%;">
+    Podstawa V kosci srodstopia — miejsce zlamania
+  </div>
+
+  <!-- Obrzek -->
+  <div class="annotation-label blue" style="top: 52%; left: 1%;">
+    Obrzek tkanek miekkich
+  </div>
+</div>
+
+<!-- Projekcja boczna (IMG_3831) -->
+<h2>3. Projekcja boczna</h2>
+<div class="img-container">
+  <img src="/Users/piotrbrodka/Downloads/IMG_3831.jpeg" alt="RTG stopy - projekcja boczna">
+
+  <!-- Rejon srodstopia -->
+  <div class="annotation-circle" style="
+    width: 10%;
+    height: 14%;
+    top: 28%;
+    left: 45%;
+  "></div>
+  <div class="annotation-label" style="top: 16%; left: 56%;">
+    Rejon podstawy V MT (na bocznej projekcji kosci nakladaja sie — trudniej ocenic)
+  </div>
+
+  <!-- Obrzek na podeszwie -->
+  <div class="annotation-label blue" style="top: 70%; left: 30%;">
+    Obrzek tkanek miekkich
+  </div>
+</div>
+
+<h2>Schemat anatomiczny — V kosc srodstopia</h2>
+<svg width="500" height="300" viewBox="0 0 500 300" style="background: #2a2a2a; border-radius: 8px;">
+  <!-- Uproszczony obrys stopy -->
+  <path d="M 400,250 Q 420,200 410,150 Q 400,100 360,80 L 300,60 L 250,50 L 200,55 L 160,65 L 130,90 Q 100,120 90,160 Q 80,200 100,240 Q 120,270 180,275 L 400,250 Z"
+    fill="none" stroke="#555" stroke-width="2"/>
+
+  <!-- V kosc srodstopia -->
+  <line x1="370" y1="170" x2="410" y2="110" stroke="#aaa" stroke-width="6" stroke-linecap="round"/>
+  <!-- IV -->
+  <line x1="330" y1="165" x2="360" y2="85" stroke="#666" stroke-width="4" stroke-linecap="round"/>
+  <!-- III -->
+  <line x1="290" y1="158" x2="305" y2="65" stroke="#666" stroke-width="4" stroke-linecap="round"/>
+  <!-- II -->
+  <line x1="250" y1="155" x2="255" y2="55" stroke="#666" stroke-width="4" stroke-linecap="round"/>
+  <!-- I (duzy palec) -->
+  <line x1="200" y1="158" x2="175" y2="75" stroke="#666" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Pieciokatna kosc pietowa -->
+  <ellipse cx="180" cy="210" rx="60" ry="40" fill="none" stroke="#555" stroke-width="2"/>
+
+  <!-- Oznaczenie zlamania -->
+  <circle cx="400" cy="130" r="18" fill="none" stroke="#ff3333" stroke-width="3">
+    <animate attributeName="r" values="18;22;18" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="415" y1="118" x2="460" y2="80" stroke="#ff3333" stroke-width="2"/>
+  <text x="380" y="60" fill="#ff3333" font-size="13" font-weight="bold" text-anchor="middle">Zlamanie</text>
+  <text x="380" y="75" fill="#ff3333" font-size="13" font-weight="bold" text-anchor="middle">V MT</text>
+
+  <!-- Etykiety -->
+  <text x="420" y="185" fill="#aaa" font-size="12">V MT</text>
+  <text x="340" y="180" fill="#666" font-size="11">IV</text>
+  <text x="295" y="175" fill="#666" font-size="11">III</text>
+  <text x="255" y="170" fill="#666" font-size="11">II</text>
+  <text x="195" y="175" fill="#666" font-size="11">I</text>
+  <text x="180" y="215" fill="#555" font-size="11" text-anchor="middle">step</text>
+
+  <text x="250" y="290" fill="#888" font-size="12" text-anchor="middle">Widok z gory (schematycznie) — prawa stopa</text>
+</svg>
+
+</body>
+</html>
