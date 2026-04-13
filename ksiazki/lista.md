@@ -7,6 +7,9 @@
 ### Rozwój osobisty
 - [ ] **Esencjalista** — Greg McKeown (*Essentialism: The Disciplined Pursuit of Less*). O sztuce robienia mniej, ale lepiej. Jak odmawiać, priorytetyzować i skupiać się na tym co naprawdę ważne.
 
+### AI / Technologia
+- [ ] **How to Create a Mind** — Ray Kurzweil (*How to Create a Mind: The Secret of Human Thought Revealed*). Jak odwzorować ludzki mózg, zrozumieć jak działa, i wykorzystać tę wiedzę do tworzenia inteligentnych maszyn.
+
 ### Tajlandia — zrozumieć kraj i kulturę
 
 #### Historia
