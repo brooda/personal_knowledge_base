@@ -29,7 +29,7 @@ Natura obdarowała mnie pokaźną, wyraźnie zarysowaną żuchwą. Niesie to za 
 
 ---
 
-### Sposób przygotowania:
+## Przygotowanie
 
 1. W małej misce wymieszaj majeranek, sezam, oregano, gorczycę i sól.
 2. Rozgrzej piekarnik do 220°C. Wyłóż blachę papierem do pieczenia.

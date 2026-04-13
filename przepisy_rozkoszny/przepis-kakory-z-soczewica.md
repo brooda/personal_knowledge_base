@@ -24,7 +24,7 @@ Hiszpanie mają empanady, Polacy kakory pochodzące z Suwalszczyzny. Różnica p
 
 ---
 
-### Sposób przygotowania:
+## Przygotowanie
 
 1. W średnim garnku zagotuj 1 1/2 szklanki (360 ml) wody i dodaj 1/2 łyżeczki soli. Dosyp soczewicę i gotuj 30 minut, aż będzie miękka. Odcedź i przełóż do średniej miski. Rozgnieć soczewicę tłuczkiem do ziemniaków tak, by część ziaren została w całości.
 2. Na średniej patelni roztop masło na średnim ogniu. Dodaj cebulę i czosnek, dopraw resztą soli i często mieszając, smaż 5 minut, aż będą szkliste i miękkie. Dodaj je do miski z soczewicą, dołóż twaróg oraz majeranek i wymieszaj. Dopraw solą i pieprzem.

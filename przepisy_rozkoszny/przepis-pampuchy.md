@@ -9,6 +9,8 @@ Uwielbiam je chwytać rękami. Wtedy czuję ich ciepło i lekkość chmurki. Te 
 
 ### 6 PORCJE JAKO PRZYSTAWKA LUB 3 JAKO DANIE GŁÓWNE
 
+## Składniki
+
 **BUŁKI NA PARZE:**
 * **2 szklanki (260 g)** mąki chlebowej
 * **1 saszetka (7 g)** suszonych drożdży

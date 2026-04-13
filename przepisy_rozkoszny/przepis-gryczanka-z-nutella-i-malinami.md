@@ -2,6 +2,8 @@
 
 **Kategoria:** gniecione, blendowane
 
+Gdy byłem mały, czekoladowo-orzechowy krem marki Nutella był moim ulubionym towarzyszem codzienności. Rozsmarowywałem go na naleśnikach, tostach i jadłem wprost ze słoika, nie zwracając uwagi na ilość cukru, którą dawkowałem sobie niemal dożylnie. Gdy trochę podrosłem, zamieniłem go na domowy wyrób, który ma lepszy skład i jest mniej słodki, więc mogę go niemalże bezkarnie jeść na śniadanie w towarzystwie tej gryczanki.
+
 **Liczba porcji:** 2
 
 ---

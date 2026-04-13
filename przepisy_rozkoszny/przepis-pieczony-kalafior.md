@@ -27,7 +27,7 @@ Oto niedzielna pieczeń na miarę XXI wieku. Za każdym razem, gdy kalafior wych
 
 ---
 
-### **Sposób przygotowania:**
+## Przygotowanie
 
 1. Rozgrzej piekarnik do **200°C**.
 2. W dużym garnku zagotuj osoloną wodę. Umieść kalafior w garnku głąbem do góry (nie musi być całkiem zanurzony). Przykryj i gotuj około **8 minut**. Zdejmij z ognia i odstaw na **10 minut** do ostygnięcia.

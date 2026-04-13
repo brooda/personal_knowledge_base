@@ -9,6 +9,8 @@ Kapusta ma prawdopodobnie najgorszy PR z całego warzywnego panteonu. Niektórzy
 
 ### 4 PORCJE
 
+## Składniki
+
 **ZIELONY SOS:**
 * **1½ szklanki (90 g)** natki pietruszki (mniej więcej 1 duży pęczek)
 * otarta skórka i sok z **1 cytryny**

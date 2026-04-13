@@ -3,7 +3,7 @@
 **Kategoria:** podsmażane
 ## z jajkami i majerankiem
 
-O bobie w pomidorach? Jakiś ty uzależniający. To jedno z tych dań, które nieustannie pojawiają się w moim letnim repertuarze. To w zasadzie wzbogacona o bób szakszuka, którą lubię podawać z młodymi ziemniakami, tworząc obiad niemal idealny.
+O bobie w pomidorach! Jakiś ty uzależniający. To jedno z tych dań, które nieustannie pojawiają się w moim letnim repertuarze. To w zasadzie wzbogacona o bób szakszuka, którą lubię podawać z młodymi ziemniakami, tworząc obiad niemal idealny.
 
 **4 PORCJE**
 
