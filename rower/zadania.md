@@ -6,6 +6,8 @@
 
 - [ ] **Bikefitting** — profesjonalne dopasowanie roweru do ciała (pozycja siodełka, kierownicy, korb)
 - [ ] **Założyć pedały SPD** — wymiana pedałów na system zatrzaskowy Shimano SPD
+- [x] **Komputer rowerowy Geoid** — kupiony (kwiecień 2026), szczegóły → [geoid_komputer_rowerowy.md](geoid_komputer_rowerowy.md)
+- [ ] **Skonfigurować Geoid** — zainstalować OneLapFit, sparować komputer, połączyć ze Stravą
 
 ---
 
